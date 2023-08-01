@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The results have been announced!"
+title: "Cross majors: Success!"
 author: "Wenjing"
 categories: CGEE 
 # tags: [documentation,sample]
