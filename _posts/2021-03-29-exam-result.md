@@ -22,3 +22,4 @@ Interview ranking: 8
 
 Total ranking: 25
 
+[考研初试准备过程]({{ site.github.url }}{% post_url 2021-03-30-exam-prepare %})

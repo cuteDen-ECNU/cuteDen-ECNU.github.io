@@ -23,4 +23,3 @@ I prepared for this exam for 9 months, and even if I didn't succeed, I wouldn't 
 
 (For reference purposes only, available to fellow students who have undergone a similar process of changing majors.)
 
-[考研初试准备过程]({{ site.github.url }}{% post_url 2021-03-30-exam-prepare %})
