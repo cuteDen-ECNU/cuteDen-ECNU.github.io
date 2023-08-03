@@ -25,3 +25,9 @@ My research interests are in:
 Welcome to contact me!
 
 ![photo.jpg]({{ site.github.url }}/assets/img/photo.jpg){:height="50%" width="50%"}
+
+# News
+
+I am doing an internship at [TEST](https://nus-test.github.io/) lab for half a year.
+
+I have just completed a summer [internship]({{ site.github.url }}{% post_url 2023-08-03-xiaomi-intern %}).
