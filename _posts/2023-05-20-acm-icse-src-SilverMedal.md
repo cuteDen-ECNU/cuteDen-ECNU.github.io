@@ -4,7 +4,7 @@ title: "I win the Silver Medal in ACM ICSE SRC!"
 author: "Wenjing"
 categories: TISE
 # tags: [documentation,sample]
-image: poster.jpg
+image: POSTER.jpg
 ---
 
 AIGROW: A Feedback-Driven Test Generation Framework for Hardware Model Checkers
