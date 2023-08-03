@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Wendy Deng"
+title:		           "Wenjing Deng"
 description:	       "The only heroism in the world is to know the truth of the world and still love it."
 # author:              "Romain Rolland"
 

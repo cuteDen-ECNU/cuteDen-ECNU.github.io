@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Trusted Intelligent Software Engineering Lab at East China Normal University
+title: Trusted Intelligent Software Engineering Lab 
 category: TISE
 permalink: /TISE
 ---
