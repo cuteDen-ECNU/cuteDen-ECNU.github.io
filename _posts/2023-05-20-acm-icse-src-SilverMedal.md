@@ -13,7 +13,7 @@ AIGROW: A Feedback-Driven Test Generation Framework for Hardware Model Checkers
 
 Two-pages paper was accepted. \
 [link](https://conf.researchr.org/details/icse-2023/icse-2023-SRC/5/AIGROW-A-Feedback-Driven-Test-Generation-Framework-for-Hardware-Model-Checkers) 
-[Full Paper]({{ site.github.url }}/assets/pdf/ICSE2023-SRC-POSTER.pdf) 
+[Full Paper]({{ site.github.url }}/assets/pdf/AIGROW.pdf) 
 
 
 ## Second Round
