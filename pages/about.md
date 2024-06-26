@@ -18,16 +18,18 @@ My research interests are in:
 
 - Software Engineering 
 
-- Programming Languages 
+- Database Testing 
 
-- Formal Methods 
+- Database Engineering
 
-Welcome to contact me!
+Feel free to contact me!
 
 ![photo.jpg]({{ site.github.url }}/assets/img/photo.jpg){:height="50%" width="50%"}
 
 # News
 
-I am doing an internship at [TEST](https://nus-test.github.io/) lab for half a year.
+June 1st, 2024: Our paper on "Finding Logic Bugs in Spatial Database Engines via Affine Equivalent Inputs" received an "Accept with Shepherding" outcome (only 12% of the submitted papers did) from [SIGMOD'25](https://2025.sigmod.org/calls_papers_sigmod_research.shtml).
 
-I have just completed a summer [internship]({{ site.github.url }}{% post_url 2023-08-03-xiaomi-intern %}).
+Aug 15th, 2023: I have been doing an internship at [TEST](https://nus-test.github.io/) lab for half a year.
+
+Aug 3rd, 2023: I have just completed a summer [internship]({{ site.github.url }}{% post_url 2023-08-03-xiaomi-intern %}).
